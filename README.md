@@ -1,5 +1,5 @@
 # TSP-Accelerator
 
-![](TSP-Accelerator.gif)
+![](TSPAccelerator.gif)
 
 INIT
