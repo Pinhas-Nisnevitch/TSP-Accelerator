@@ -2,4 +2,4 @@
 
 
 
-![](TSP Accelerator.gif)
+![](TSP-Accelerator.gif)
