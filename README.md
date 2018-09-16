@@ -2,5 +2,5 @@
 
 ![](TSPAccelerator.gif)
 
-# Accelrating the "nearest neighbor" algorithm with 100k points:
+# Accelerating the "Nearest Neighbor" algorithm with 100k points:
 ![](monalisa.png)
