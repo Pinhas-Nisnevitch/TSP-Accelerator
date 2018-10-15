@@ -1,12 +1,13 @@
 # TSP-Accelerator
 Algorithm accelerator for the travelling salesman problem
+![](TSPAccelerator.gif)
 
+------------------------------------------------------------------------------------------------------------------------------
 - [More about TSP-Accelerator](#more-about-tsp-accelerator)
 - [Getting Started](#getting-started)
 - [Create New TSP Solver](#create-new-tsp-solver)
 - [The Team](#the-team)
---------------------------------------------------------------------------------------------------
-![](TSPAccelerator.gif)
+------------------------------------------------------------------------------------------------------------------------------
 
 # Accelerating the "Nearest Neighbor" algorithm with 100k points:
 ![](monalisa.png)
