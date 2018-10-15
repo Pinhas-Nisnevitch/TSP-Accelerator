@@ -28,8 +28,6 @@ ant -f "TSP Accelerator" -Dnb.internal.action.name=rebuild clean jar
 ```
 Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar  
 
-# Accelerating the "Nearest Neighbor" algorithm with 100k points:
-![](monalisa.png)
 
 ## Create New TSP Solver
 
@@ -65,6 +63,9 @@ Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar
    "TODO"  
 4) Load the new JAR file ("TSP-Accelerator/utils/TSP Algorithms.jar") into the program. (File -> Load Algorithm)  
    or (Shift + A).  
+
+# Accelerating the "Nearest Neighbor" algorithm with 100k points:
+![](monalisa.png)
 
 ## The Team
 
