@@ -48,7 +48,7 @@ Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar
       public DumbTSP(Cost cost_func, ArrayList<Integer> points) {
           super(cost_func, points, ALGORITHM_NAME);
           int [] tour = new int[points.size()];
-          // YOUR CODE HERE MAKE SURE TO UPDATE THE "tour" ARRAY BEFORE THE "setTour(tour)" command.
+          // YOUR CODE HERE MAKE SURE TO UPDATE THE "tour" ARRAY BEFORE THE "setTour(tour)" COMMAND.
           setTour(tour);
       }
 
