@@ -10,25 +10,24 @@ Algorithm accelerator for the travelling salesman problem
 ![](TSPAccelerator.gif)
 
 
+
+
+
+
+
+## More about TSP-Accelerator
+TSP Accelerator is a java implementation of the paper: "TODO"
+
+
+
+## Getting Started
+git clone --recursive https://github.com/Pinhas-Nisnevitch/TSP-Accelerator/
+cd utils
+
+
+
 # Accelerating the "Nearest Neighbor" algorithm with 100k points:
 ![](monalisa.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
