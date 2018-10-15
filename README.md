@@ -22,8 +22,10 @@ TSP Accelerator is a java implementation of the paper: "TODO"
 
 ## Getting Started
 git clone --recursive https://github.com/Pinhas-Nisnevitch/TSP-Accelerator/
-cd utils
+cd TSP-Accelerator
+ant -f "TSP Accelerator" -Dnb.internal.action.name=rebuild clean jar
 
+Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar
 
 
 # Accelerating the "Nearest Neighbor" algorithm with 100k points:
