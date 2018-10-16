@@ -30,9 +30,9 @@ ant -f "TSP Accelerator" -Dnb.internal.action.name=rebuild clean jar
 Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar  
 
 # install dependencies  
-git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git  
-java jdk: https://www.oracle.com/technetwork/java/javase/downloads/index.html  
-ant: https://ant.apache.org/manual/install.html  
+**git:** https://git-scm.com/book/en/v2/Getting-Started-Installing-Git  
+**java jdk:** https://www.oracle.com/technetwork/java/javase/downloads/index.html  
+**ant:** https://ant.apache.org/manual/install.html  
 
 
 ## Create New TSP Solver
