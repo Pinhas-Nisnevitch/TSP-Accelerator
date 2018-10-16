@@ -43,7 +43,7 @@ Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar
       private final static String ALGORITHM_NAME = "YOUR TSP ALGORITHM NAME";
 
 
-      public DumbTSP(Cost cost_func, ArrayList<Integer> points) {
+      public YOUR_TSP_ALGORITHM(Cost cost_func, ArrayList<Integer> points) {
           super(cost_func, points, ALGORITHM_NAME);
           int [] tour = new int[points.size()];
           // YOUR CODE HERE MAKE SURE TO UPDATE THE "tour" ARRAY BEFORE THE "setTour(tour)" COMMAND.
@@ -56,7 +56,7 @@ Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar
   
   See for example: https://github.com/Pinhas-Nisnevitch/TSP-Accelerator/blob/master/utils/NearestNeighbor.java
 
-2) put your java file in: TSP-Accelerator/utils/
+2) save your java file in: TSP-Accelerator/utils/
 3) For Linux/macOS:  
    ```source create_tsp_algorithms_jar.sh```  
    For Windows:  
