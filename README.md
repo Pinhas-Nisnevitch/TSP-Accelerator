@@ -66,7 +66,8 @@ Double-Click on: /TSP-Accelerator/TSP Accelerator/dist/TSP_Accelerator.jar
 3) For Linux/macOS:  
    ```source create_tsp_algorithms_jar.sh```  
    For Windows:  
-   "TODO"  
+   ```create_tsp_algorithms_jar.bat```  
+   
 4) Load the new JAR file ("TSP-Accelerator/utils/TSP Algorithms.jar") into the program. (File -> Load Algorithm)  
    or (Shift + A).  
 
